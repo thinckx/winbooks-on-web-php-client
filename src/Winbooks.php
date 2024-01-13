@@ -47,8 +47,8 @@ class Winbooks
      *
      * @var string
      */
-    protected $api_host = 'https://prd.winbooksapis.be/wow/v2/';
-    // protected $api_host = 'https://rapi.winbooksonweb.be/';
+    // protected $api_host = 'https://prd.winbooksapis.be/wow/v2/';
+    protected $api_host = 'https://rapi.winbooksonweb.be/';
 
     /**
      * The available models with their associated type
